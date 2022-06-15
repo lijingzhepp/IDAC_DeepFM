@@ -1,2 +1,2 @@
 # IDAC_DeepFM
-The share of IDAC prediction based on DeepFM algorithm.
+This repository was created to share the application of DeepFM algorithm for IDAC prediction.
