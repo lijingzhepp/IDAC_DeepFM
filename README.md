@@ -13,4 +13,4 @@ Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He. (2017) DeepFM: a
 Weichen Shen. (2017). DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models. https://github.com/shenweichen/deepctr.
 
 ## Citation
-Please cite this work by the original publication in "Dummy Journal Name" from the link "Dummy Publicaiton link".
+Please cite this work by the original publication in "XXX" from the link "XXX".
