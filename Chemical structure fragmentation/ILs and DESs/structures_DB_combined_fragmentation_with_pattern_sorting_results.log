@@ -1,0 +1,3503 @@
+https://pubchem.ncbi.nlm.nih.gov/compound/0#section=2D-Structure
+C[NH+]1C=CN=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+0
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+[IM-1]      	50      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/1#section=2D-Structure
+CN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+1
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/2#section=2D-Structure
+CN1C=C[N+](C)=C1.COP([O-])(=O)OC
+2
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+[IM-1,(a)]  	51      1       
+[PO2-O1,O1] 	108     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/3#section=2D-Structure
+CN1C=C[N+](C)=C1.[H]P([O-])(=O)OC
+3
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+[IM-1,(a)]  	51      1       
+[PO2H-O1]   	118     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/4#section=2D-Structure
+CN1C=C[N+](C)=C1.COS([O-])(=O)=O
+4
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+[IM-1,(a)]  	51      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/5#section=2D-Structure
+CN1C=C[N+](C)=C1.COCCOS([O-])(=O)=O
+5
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+[IM-1,(a)]  	51      1       
+[SO3-O2O1]  	95      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/6#section=2D-Structure
+CCN1C=C[N+](C)=C1.CC([O-])=O
+6
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[AC]        	86      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/7#section=2D-Structure
+CCN1C=C[N+](C)=C1.F[B-](F)(F)F
+7
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/8#section=2D-Structure
+CCN1C=C[N+](C)=C1.N#C[C-](C#N)C#N
+8
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/9#section=2D-Structure
+CCN1C=C[N+](C)=C1.N#C[N-]C#N
+9
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/10#section=2D-Structure
+CCN1C=C[N+](C)=C1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+10
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/11#section=2D-Structure
+CCN1C=C[N+](C)=C1.[N-](S(=O)(=O)F)S(=O)(=O)F
+11
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[FSI]       	113     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/12#section=2D-Structure
+CCN1C=C[N+](C)=C1.OS([O-])(=O)=O
+12
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[HSO4]      	94      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/13#section=2D-Structure
+CCN1C=C[N+](C)=C1.[O-][N+]([O-])=O
+13
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[NO3]       	90      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/14#section=2D-Structure
+CCN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+14
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/15#section=2D-Structure
+CCN1C=C[N+](C)=C1.[O-]S(=O)(=O)C(F)(F)F
+15
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/16#section=2D-Structure
+CCN1C=C[N+](C)=C1.COP([O-])(=O)OC
+16
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[PO2-O1,O1] 	108     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/17#section=2D-Structure
+CCN1C=C[N+](C)=C1.CCOP([O-])(=O)OCC
+17
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[PO2-O2,O2] 	109     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/18#section=2D-Structure
+CCN1C=C[N+](C)=C1.[H]P([O-])(=O)OC
+18
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[PO2H-O1]   	118     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/19#section=2D-Structure
+CCN1C=C[N+](C)=C1.[H]P([O-])(=O)OCC
+19
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[PO2H-O2]   	119     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/20#section=2D-Structure
+CCN1C=C[N+](C)=C1.[S-]C#N
+20
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/21#section=2D-Structure
+CCN1C=C[N+](C)=C1.CS([O-])(=O)=O
+21
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-1]     	100     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/22#section=2D-Structure
+CCN1C=C[N+](C)=C1.CC1=CC=C(C=C1)S([O-])(=O)=O
+22
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-PH1]   	93      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/23#section=2D-Structure
+CCN1C=C[N+](C)=C1.COCCOCCOS([O-])(=O)=O
+23
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-O[2O]21]	103     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/24#section=2D-Structure
+CCN1C=C[N+](C)=C1.COS([O-])(=O)=O
+24
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/25#section=2D-Structure
+CCN1C=C[N+](C)=C1.CCOS([O-])(=O)=O
+25
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-O2]    	98      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/26#section=2D-Structure
+CCN1C=C[N+](C)=C1.CCCCCCCCOS([O-])(=O)=O
+26
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[SO3-O8]    	99      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/27#section=2D-Structure
+CCN1C=C[N+](C)=C1.N#C[B-](C#N)(C#N)C#N
+27
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[TCB]       	107     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/28#section=2D-Structure
+CCN1C=C[N+](C)=C1.[O-]C(=O)C(F)(F)F
+28
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[IM-1,(a)]  	51      1       
+[TFA]       	89      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/29#section=2D-Structure
+CCCN1C=C[N+](C)=C1.[Br-]
+29
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+[IM-1,(a)]  	51      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/30#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CCCCCCCCCCCCCCCC([O-])=O
+30
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[14AC]      	87      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/31#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CCCCCCCCCCCCCCCCCC([O-])=O
+31
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[16AC]      	88      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/32#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CC([O-])=O
+32
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[AC]        	86      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/33#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.F[B-](F)(F)F
+33
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/34#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2
+34
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[BOB]       	114     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/35#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[Br-]
+35
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/36#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.N#C[C-](C#N)C#N
+36
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/37#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[Cl-]
+37
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/38#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[O-]Cl(=O)(=O)=O
+38
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[ClO4]      	91      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/39#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.N#C[N-]C#N
+39
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/40#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.OS([O-])(=O)=O
+40
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[HSO4]      	94      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/41#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[O-][N+]([O-])=O
+41
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[NO3]       	90      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/42#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.FC(F)(F)C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)C(F)(F)F
+42
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[NPF2]      	116     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/43#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+43
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/44#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[O-]S(=O)(=O)C(F)(F)F
+44
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/45#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.F[P-](F)(F)(F)(F)F
+45
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/46#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.COP([O-])(=O)OC
+46
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[PO2-O1,O1] 	108     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/47#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CCCCOP([O-])(=O)OCCCC
+47
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[PO2-O4,O4] 	110     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/48#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[S-]C#N
+48
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/49#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CS([O-])(=O)=O
+49
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SO3-1]     	100     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/50#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CC1=CC=C(C=C1)S([O-])(=O)=O
+50
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SO3-PH1]   	93      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/51#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.COCCOCCOS([O-])(=O)=O
+51
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SO3-O[2O]21]	103     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/52#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.COS([O-])(=O)=O
+52
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/53#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.CCCCCCCCOS([O-])(=O)=O
+53
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SO3-O8]    	99      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/54#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.F[Sb-](F)(F)(F)(F)F
+54
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[SBF6]      	120     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/55#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.FC(F)(F)C1=NC(C#N)=C([N-]1)C#N
+55
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[TDI]       	115     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/56#section=2D-Structure
+CCCCN1C=C[N+](C)=C1.[O-]C(=O)C(F)(F)F
+56
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[IM-1,(a)]  	51      1       
+[TFA]       	89      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/57#section=2D-Structure
+CCCCN1C=C[N+](CCCC)=C1.[Br-]
+57
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       6       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/58#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.F[B-](F)(F)F
+58
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/59#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2
+59
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[BOB]       	114     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/60#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[Cl-]
+60
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/61#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[O-]Cl(=O)(=O)=O
+61
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[ClO4]      	91      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/62#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+62
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/63#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[O-][N+]([O-])=O
+63
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[NO3]       	90      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/64#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+64
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/65#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[O-]S(=O)(=O)C(F)(F)F
+65
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/66#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.F[P-](F)(F)(F)(F)F
+66
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/67#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[S-]C#N
+67
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/68#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.N#C[B-](C#N)(C#N)C#N
+68
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[TCB]       	107     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/69#section=2D-Structure
+CCCCCC[N+]1=CN(C)C=C1.[O-]C(=O)C(F)(F)F
+69
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[IM-1,(a)]  	51      1       
+[TFA]       	89      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/70#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.F[B-](F)(F)F
+70
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/71#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.[Cl-]
+71
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/72#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.[O-][N+]([O-])=O
+72
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[NO3]       	90      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/73#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+73
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/74#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.[O-]S(=O)(=O)C(F)(F)F
+74
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/75#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.F[P-](F)(F)(F)(F)F
+75
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/76#section=2D-Structure
+CCCCCCCCN1C=C[N+](C)=C1.COCCOCCOS([O-])(=O)=O
+76
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[IM-1,(a)]  	51      1       
+[SO3-O[2O]21]	103     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/77#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](C)=C1.F[B-](F)(F)F
+77
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/78#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+78
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/79#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](C)=C1.N#C[B-](C#N)(C#N)C#N
+79
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[IM-1,(a)]  	51      1       
+[TCB]       	107     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/80#section=2D-Structure
+CCCCCCCCCCCCN1C=C[N+](C)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+80
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       11      
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/81#section=2D-Structure
+CCCCCCCCCCCCCCCCN1C=C[N+](C)=C1.F[B-](F)(F)F
+81
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       15      
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/82#section=2D-Structure
+C[N+]1=CN(CC2CCCCC2)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+82
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       6       
+CH          	3       1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/83#section=2D-Structure
+CCCOC[N+]1=CN(C)C=C1.F[B-](F)(F)F
+83
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+OCH2        	24      1       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/84#section=2D-Structure
+CCCOC[N+]1=CN(C)C=C1.N#C[N-]C#N
+84
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+OCH2        	24      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/85#section=2D-Structure
+CCCOC[N+]1=CN(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+85
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+OCH2        	24      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/86#section=2D-Structure
+CCCOC[N+]1=CN(CC2=CC=CC=C2)C=C1.F[B-](F)(F)F
+86
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+PHCH        	10      5       
+PHCCH2      	13      1       
+OCH2        	24      1       
+[IM-(a),(b)]	52      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/87#section=2D-Structure
+CCCOC[N+]1=CN(CC2=CC=CC=C2)C=C1.N#C[N-]C#N
+87
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+PHCH        	10      5       
+PHCCH2      	13      1       
+OCH2        	24      1       
+[IM-(a),(b)]	52      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/88#section=2D-Structure
+CCCOC[N+]1=CN(CC2=CC=CC=C2)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+88
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+PHCH        	10      5       
+PHCCH2      	13      1       
+OCH2        	24      1       
+[IM-(a),(b)]	52      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/89#section=2D-Structure
+CCCCCCOC[N+]1=CN(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+89
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+OCH2        	24      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/90#section=2D-Structure
+CCCCCCOCN1C=C[N+](COCCCCCC)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+90
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       10      
+OCH2        	24      2       
+[IM-(a),(b)]	52      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/91#section=2D-Structure
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.N#C[N-]C#N
+91
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+PHCH        	10      5       
+PHCCH2      	13      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/92#section=2D-Structure
+C[N+]1=CN(CC2=CC=CC=C2)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+92
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+PHCH        	10      5       
+PHCCH2      	13      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/93#section=2D-Structure
+CN1C=C[N+](C[Si](C)(C)C)=C1.[Cl-]
+93
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+SI(1)3      	26      1       
+[IM-1,(a)]  	51      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/94#section=2D-Structure
+CN1C=C[N+](CCCl)=C1.N#C[N-]C#N
+94
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2Cl       	36      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/95#section=2D-Structure
+COCC[N+]1=CN(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+95
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/96#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.F[B-](F)(F)F
+96
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/97#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.C(C(C(F)(F)S(=O)(=O)[O-])(F)F)(C(F)(F)F)(F)F
+97
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[C4F9SO3]   	102     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/98#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.N#C[N-]C#N
+98
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/99#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+99
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/100#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+100
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/101#section=2D-Structure
+C[N+]1=CN(CCO)C=C1.F[P-](F)(F)(F)(F)F
+101
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/102#section=2D-Structure
+CN1C=C[N+](CCCB(O)O)=C1.[Br-]
+102
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OBO         	27      1       
+[IM-1,(a)]  	51      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/103#section=2D-Structure
+CCCCCCCCN1C=C[N+](CCCB(O)O)=C1.[Br-]
+103
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       10      
+OBO         	27      1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/104#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](CCCB(O)O)=C1.[Br-]
+104
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       12      
+OBO         	27      1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/105#section=2D-Structure
+CCCCCCCCCCCCN1C=C[N+](CCCB(O)O)=C1.[Br-]
+105
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       14      
+OBO         	27      1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/106#section=2D-Structure
+CN1C=C[N+](CCCC#N)=C1.N#C[N-]C#N
+106
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/107#section=2D-Structure
+CN1C=C[N+](CCCC#N)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+107
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/108#section=2D-Structure
+C[N+]1=CN(CCCO)C=C1.N#C[N-]C#N
+108
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/109#section=2D-Structure
+C[N+]1=CN(CCCO)C=C1.[O-][N+]([O-])=O
+109
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[NO3]       	90      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/110#section=2D-Structure
+C[N+]1=CN(CCCO)C=C1.[S-]C#N
+110
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[IM-1,(a)]  	51      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/111#section=2D-Structure
+C[N+]1=CN(CCCC[S](O)(=O)=O)C=C1.OS([O-])(=O)=O
+111
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       4       
+SO3         	28      1       
+[IM-1,(a)]  	51      1       
+[HSO4]      	94      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/112#section=2D-Structure
+C[N+]1=CN(CCCC[S](O)(=O)=O)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+112
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       4       
+SO3         	28      1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/113#section=2D-Structure
+C[N+]1=CN(CCCC[S](O)(=O)=O)C=C1.[O-]S(=O)(=O)C(F)(F)F
+113
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       4       
+SO3         	28      1       
+[IM-1,(a)]  	51      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/114#section=2D-Structure
+C[N+]1=CN(CC=C)C=C1.F[B-](F)(F)F
+114
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       1       
+[IM-1,(a)]  	51      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/115#section=2D-Structure
+C[N+]1=CN(CC=C)C=C1.[Br-]
+115
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       1       
+[IM-1,(a)]  	51      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/116#section=2D-Structure
+C[N+]1=CN(CC=C)C=C1.[Cl-]
+116
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       1       
+[IM-1,(a)]  	51      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/117#section=2D-Structure
+C[N+]1=CN(CC=C)C=C1.N#C[N-]C#N
+117
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       1       
+[IM-1,(a)]  	51      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/118#section=2D-Structure
+C[N+]1=CN(CC=C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+118
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       1       
+[IM-1,(a)]  	51      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/119#section=2D-Structure
+CCCCCCCC[N+]1=CN(CC=C)C=C1.[Br-]
+119
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       8       
+CH2=CH      	5       1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/120#section=2D-Structure
+CCCCCCCCCC[N+]1=CN(CC=C)C=C1.[Br-]
+120
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       10      
+CH2=CH      	5       1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/121#section=2D-Structure
+CCCCCCCCCCCC[N+]1=CN(CC=C)C=C1.[Br-]
+121
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       12      
+CH2=CH      	5       1       
+[IM-(a),(b)]	52      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/122#section=2D-Structure
+C=C[N+]1=CN(CC=C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+122
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       1       
+CH2=CH      	5       2       
+[IM-(a),(b)]	52      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/123#section=2D-Structure
+CON1C=C[N+](OC)=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+123
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+OCH3        	23      2       
+[IM-(a),(b)]	52      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/124#section=2D-Structure
+CCN1C=C[N+](C)=C1C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+124
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       1       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/125#section=2D-Structure
+CCC[N+]1=C(C)N(C)C=C1.F[B-](F)(F)F
+125
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+[IM-1,(a),(b)]	53      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/126#section=2D-Structure
+CCC[N+]1=C(C)N(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+126
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/127#section=2D-Structure
+CCCCCC[N+]1=C(C)N(C)C=C1.F[B-](F)(F)F
+127
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       5       
+[IM-1,(a),(b)]	53      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/128#section=2D-Structure
+CCCCCC[N+]1=C(C)N(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+128
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       5       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/129#section=2D-Structure
+CCCCCCCCN1C=C[N+](=C1C)C.F[B-](F)(F)F
+129
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       7       
+[IM-1,(a),(b)]	53      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/130#section=2D-Structure
+CCCCCCCCN1C=C[N+](=C1C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+130
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       7       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/131#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](CCCCCCCCCC)=C1C.N#C[N-]C#N
+131
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       18      
+[IM-1,(a),(b)]	53      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/132#section=2D-Structure
+CCCCCCCCCCN1C=C[N+](CCCCCCCCCC)=C1C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+132
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       18      
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/133#section=2D-Structure
+CCCCCCCCN1C=C[N+](COCCC)=C1C.N#C[N-]C#N
+133
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       9       
+OCH2        	24      1       
+[IM-1,(a),(b)]	53      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/134#section=2D-Structure
+CCCCCCCCN1C=C[N+](COCCC)=C1C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+134
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       9       
+OCH2        	24      1       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/135#section=2D-Structure
+CN1C=C[N+](CCCC#N)=C1C.N#C[N-]C#N
+135
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+CH2CN       	34      1       
+[IM-1,(a),(b)]	53      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/136#section=2D-Structure
+CN1C=C[N+](CCCC#N)=C1C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+136
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+CH2CN       	34      1       
+[IM-1,(a),(b)]	53      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/137#section=2D-Structure
+CCCCCC[N+]1=CC2=CC=CC=C2C=C1.[S-]C#N
+137
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[QUINI]     	61      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/138#section=2D-Structure
+CCCCCCCC[N+]1=CC2=CC=CC=C2C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+138
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[QUINI]     	61      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/139#section=2D-Structure
+C1=CC=[NH+]C=C1.CCOCCOS([O-])(=O)=O
+139
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+[PY]        	55      1       
+[SO3-O2O2]  	96      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/140#section=2D-Structure
+CC[N+]1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+140
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/141#section=2D-Structure
+CC[N+]1=CC=CC=C1.[O-]C(=O)C(F)(F)F
+141
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[PY]        	55      1       
+[TFA]       	89      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/142#section=2D-Structure
+CCCC[N+]1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+142
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/143#section=2D-Structure
+CCCCC[N+]1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+143
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       4       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/144#section=2D-Structure
+CCCCCC[N+]1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+144
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/145#section=2D-Structure
+[N+]1(CC2CCCCC2)=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+145
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       6       
+CH          	3       1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/146#section=2D-Structure
+[N+]1(CC2=CC=CC=C2)=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+146
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+PHCH        	10      5       
+PHCCH2      	13      1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/147#section=2D-Structure
+OCCC[N+]1=CC=CC=C1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+147
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[PY]        	55      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/148#section=2D-Structure
+C1=CC=[N+](C=C1)CCCO.N#C[N-]C#N
+148
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[PY]        	55      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/149#section=2D-Structure
+OCCC[N+]1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+149
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/150#section=2D-Structure
+N#CCCC[N+]1=CC=CC=C1.N#C[N-]C#N
+150
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[PY]        	55      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/151#section=2D-Structure
+CCCOC[N+]1=CC=C(N(C)C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+151
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+OCH2        	24      1       
+CNC         	29      1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/152#section=2D-Structure
+CC[N+]1=CC(C)=CC=C1.CCOS([O-])(=O)=O
+152
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[PY-1,(a)]  	54      1       
+[SO3-O2]    	98      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/153#section=2D-Structure
+CCCC[N+]1=CC(C)=CC=C1.[O-]S(=O)(=O)C(F)(F)F
+153
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/154#section=2D-Structure
+CCCC[N+]1=CC(C)=CC=C1.FC(F)(F)C1=NC(C#N)=C([N-]1)C#N
+154
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[TDI]       	115     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/155#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.F[B-](F)(F)F
+155
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/156#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.N#C[C-](C#N)C#N
+156
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/157#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.N#C[N-]C#N
+157
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/158#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+158
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/159#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.[S-]C#N
+159
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/160#section=2D-Structure
+CCCC[N+]1=CC=C(C)C=C1.CC1=CC=C(C=C1)S([O-])(=O)=O
+160
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PY-1,(a)]  	54      1       
+[SO3-PH1]   	93      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/161#section=2D-Structure
+CCCC[N+]1=CC=C(C#N)C=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+161
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+CN          	30      1       
+[PY]        	55      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/162#section=2D-Structure
+CCCCCC[N+]1=CC(C)=CC=C1.CC1=CC=C(C=C1)S([O-])(=O)=O
+162
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[PY-1,(a)]  	54      1       
+[SO3-PH1]   	93      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/163#section=2D-Structure
+CC[N+]1(C)CCCC1.CC(O)C([O-])=O
+163
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[PYR-1,(a)] 	56      1       
+[LA]        	92      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/164#section=2D-Structure
+CCC[N+]1(C)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F
+164
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+[PYR-1,(a)] 	56      1       
+[FSI]       	113     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/165#section=2D-Structure
+CCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+165
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/166#section=2D-Structure
+CCCC[N+]1(C)CCCC1.O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2
+166
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[BOB]       	114     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/167#section=2D-Structure
+CCCC[N+]1(C)CCCC1.N#C[C-](C#N)C#N
+167
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/168#section=2D-Structure
+CCCC[N+]1(C)CCCC1.N#C[N-]C#N
+168
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/169#section=2D-Structure
+CCCC[N+]1(C)CCCC1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+169
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/170#section=2D-Structure
+CCCC[N+]1(C)CCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F
+170
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[FSI]       	113     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/171#section=2D-Structure
+CCCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+171
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/172#section=2D-Structure
+CCCC[N+]1(C)CCCC1.[O-]S(=O)(=O)C(F)(F)F
+172
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[OTF]       	101     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/173#section=2D-Structure
+CCCC[N+]1(C)CCCC1.[S-]C#N
+173
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/174#section=2D-Structure
+CCCC[N+]1(C)CCCC1.N#C[B-](C#N)(C#N)C#N
+174
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PYR-1,(a)] 	56      1       
+[TCB]       	107     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/175#section=2D-Structure
+CCCCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+175
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       4       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/176#section=2D-Structure
+CCCCCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+176
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/177#section=2D-Structure
+CCCCCCCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+177
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/178#section=2D-Structure
+CCCCCCCCCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+178
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/179#section=2D-Structure
+C[N+]1(CC2CCCCC2)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+179
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       6       
+CH          	3       1       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/180#section=2D-Structure
+C[N+]1(CC2=CC=CC=C2)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+180
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+PHCH        	10      5       
+PHCCH2      	13      1       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/181#section=2D-Structure
+COCC[N+]1(C)CCCC1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+181
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[PYR-1,(a)] 	56      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/182#section=2D-Structure
+COCC[N+]1(C)CCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+182
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[PYR-1,(a)] 	56      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/183#section=2D-Structure
+C[N+]1(CCO)CCCC1.COP([O-])(=O)OC
+183
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OH          	15      1       
+[PYR-1,(a)] 	56      1       
+[PO2-O1,O1] 	108     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/184#section=2D-Structure
+C[N+]1(CCCC1)CCCC#N.N#C[N-]C#N
+184
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[PYR-1,(a)] 	56      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/185#section=2D-Structure
+C[N+]1(CCCC1)CCCC#N.[S-]C#N
+185
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[PYR-1,(a)] 	56      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/186#section=2D-Structure
+CCC[N+]1(C)CCCCC1.[N-](S(=O)(=O)F)S(=O)(=O)F
+186
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+[PIP-1,(a)] 	58      1       
+[FSI]       	113     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/187#section=2D-Structure
+CCC[N+]1(C)CCCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+187
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       2       
+[PIP-1,(a)] 	58      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/188#section=2D-Structure
+CCCC[N+]1(C)CCCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+188
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PIP-1,(a)] 	58      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/189#section=2D-Structure
+CCCC[N+]1(C)CCCCC1.[S-]C#N
+189
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[PIP-1,(a)] 	58      1       
+[SCN]       	104     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/190#section=2D-Structure
+CCCCC[N+]1(C)CCCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+190
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       4       
+[PIP-1,(a)] 	58      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/191#section=2D-Structure
+CCCCCC[N+]1(C)CCCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+191
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[PIP-1,(a)] 	58      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/192#section=2D-Structure
+COCC[N+]1(C)CCCCC1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+192
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[PIP-1,(a)] 	58      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/193#section=2D-Structure
+COCC[N+]1(C)CCCCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+193
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[PIP-1,(a)] 	58      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/194#section=2D-Structure
+CC[N+]1(CCOCC1)C.N#C[N-]C#N
+194
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       1       
+[MO-1,(a)]  	60      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/195#section=2D-Structure
+CCCC[N+]1(C)CCOCC1.N#C[C-](C#N)C#N
+195
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       3       
+[MO-1,(a)]  	60      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/196#section=2D-Structure
+CCCCCCCCCC[N+]1(C)CCOCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+196
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[MO-1,(a)]  	60      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/197#section=2D-Structure
+CCCCCCCCCC[N+]1(C)CCOCC1.N#C[B-](C#N)(C#N)C#N
+197
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[MO-1,(a)]  	60      1       
+[TCB]       	107     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/198#section=2D-Structure
+COCC[N+]1(C)CCOCC1.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+198
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[MO-1,(a)]  	60      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/199#section=2D-Structure
+COCC[N+]1(C)CCOCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+199
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+OCH3        	23      1       
+[MO-1,(a)]  	60      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/200#section=2D-Structure
+C[N+]1(CCCO)CCOCC1.N#C[C-](C#N)C#N
+200
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[MO-1,(a)]  	60      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/201#section=2D-Structure
+C[N+]1(CCCO)CCOCC1.N#C[N-]C#N
+201
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[MO-1,(a)]  	60      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/202#section=2D-Structure
+C[N+]1(CCCO)CCOCC1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+202
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       3       
+OH          	15      1       
+[MO-1,(a)]  	60      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/203#section=2D-Structure
+C[N+]1(CCCC#N)CCOCC1.N#C[C-](C#N)C#N
+203
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH2         	2       2       
+CH2CN       	34      1       
+[MO-1,(a)]  	60      1       
+[CCN3]      	106     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/204#section=2D-Structure
+CCN(CC)[C+]1C(=C1N(CC)CC)N(CC)CC.N#C[N-]C#N
+204
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       6       
+CNC         	29      3       
+[CPP]       	62      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/205#section=2D-Structure
+CCN(CC)[C+]1C(=C1N(CC)CC)N(CC)CC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+205
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       6       
+CNC         	29      3       
+[CPP]       	62      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/206#section=2D-Structure
+CCCCCC[N+]12CCN(CC1)CC2.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+206
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+[DABCO]     	80      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/207#section=2D-Structure
+CN1CCCN2CCC[NH+]=C12.FC(F)(F)C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)C(F)(F)F
+207
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+[MTBDH]     	63      1       
+[NPF2]      	116     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/208#section=2D-Structure
+CCCCCC[N+]12CCC(CC1)CC2.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+208
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       7       
+[QUINUC]    	59      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/209#section=2D-Structure
+CCCCCCCC[N+]12CCC(CC1)CC2.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+209
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       9       
+[QUINUC]    	59      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/210#section=2D-Structure
+CCC[N+](C)(C)C(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+210
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       4       
+CH          	3       1       
+[C3H7N]     	66      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/211#section=2D-Structure
+CCCC[N+](C)(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+211
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+[C4H9N]     	67      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/212#section=2D-Structure
+CCCC[N+](C)(CCCC)CCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+212
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       6       
+[C4H9N]     	67      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/213#section=2D-Structure
+CCCC[N+](C)(CCCC)CCCC.COS([O-])(=O)=O
+213
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       6       
+[C4H9N]     	67      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/214#section=2D-Structure
+CCCCCC[N+](C)(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+214
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+[C6H13N]    	68      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/215#section=2D-Structure
+CCCCCC[N+](C)(C)C(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+215
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       4       
+CH          	3       1       
+[C6H13N]    	68      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/216#section=2D-Structure
+CCCCCC[N+](CCCC)(CCCC)CCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+216
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C6H13N]    	68      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/217#section=2D-Structure
+CCCCCC[N+](CCCC)(CCCC)CCCC.F[P-](F)(F)(F)(F)F
+217
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C6H13N]    	68      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/218#section=2D-Structure
+CCCCCCCC[N+](C)(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+218
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+[C8H17N]    	69      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/219#section=2D-Structure
+CCCCCCCC[N+](CC)(CC)CC.[N-](S(=O)(=O)F)S(=O)(=O)F
+219
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       3       
+[C8H17N]    	69      1       
+[FSI]       	113     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/220#section=2D-Structure
+CCCCCCCC[N+](CC)(CC)CC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+220
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       3       
+[C8H17N]    	69      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/221#section=2D-Structure
+CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+221
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       14      
+[C8H17N]    	69      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/222#section=2D-Structure
+CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[O-]C(=O)C1=CC=CC=C1S
+222
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       14      
+[C8H17N]    	69      1       
+[TS]        	121     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/223#section=2D-Structure
+CCCCCCCC[N+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+223
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       21      
+[C8H17N]    	69      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/224#section=2D-Structure
+CCCCCCCCCC[N+](C)(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+224
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+[C10H21N]   	70      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/225#section=2D-Structure
+CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.F[B-](F)(F)F
+225
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C10H21N]   	70      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/226#section=2D-Structure
+CCCCCCCCCC[N+](C)(C)CCCCCCCCCC.[O-]Cl(=O)(=O)=O
+226
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C10H21N]   	70      1       
+[ClO4]      	91      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/227#section=2D-Structure
+CCCCCCCCCCCC[N+](C)(C)CCOC1=CC=CC=C1.N#C[N-]C#N
+227
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       1       
+PHCH        	10      5       
+PHC         	11      1       
+OCH2        	24      1       
+[C12H25N]   	71      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/228#section=2D-Structure
+CCCCCCCCCCCC[N+](C)(C)CCOC1=CC=CC=C1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+228
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       1       
+PHCH        	10      5       
+PHC         	11      1       
+OCH2        	24      1       
+[C12H25N]   	71      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/229#section=2D-Structure
+CC(C)[N+](C)(C)CC#N.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+229
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH          	3       1       
+CH2CN       	34      1       
+[CH3N]      	64      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/230#section=2D-Structure
+CC[N+](C)(C)CCOC.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+230
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+OCH3        	23      1       
+[C2H5N]     	65      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/231#section=2D-Structure
+CC[N+](C)(CC)CCOC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+231
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       3       
+OCH3        	23      1       
+[C2H5N]     	65      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/232#section=2D-Structure
+CCCCCCCCCCCCC[N+](C)(CCOCCO)CCOCCOCCO.COS([O-])(=O)=O
+232
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       19      
+OH          	15      2       
+OCH2        	24      3       
+[CH3N]      	64      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/233#section=2D-Structure
+C[N+](C)(C)CCO.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+233
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+OH          	15      1       
+[CH3N]      	64      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/234#section=2D-Structure
+CC[N+](C)(C)CCO.CCOP([O-])(=O)OCC
+234
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+OH          	15      1       
+[C2H5N]     	65      1       
+[PO2-O2,O2] 	109     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/235#section=2D-Structure
+CC(C)[N+](C)(C)CCO.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+235
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       2       
+CH          	3       1       
+OH          	15      1       
+[CH3N]      	64      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/236#section=2D-Structure
+CCC[N+](C)(C)CCN(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+236
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       1       
+CNC         	29      1       
+[C3H7N]     	66      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/237#section=2D-Structure
+CCCC[N+](C)(C)CCN(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+237
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       1       
+CNC         	29      1       
+[C4H9N]     	67      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/238#section=2D-Structure
+CCC[N+](C)(C)CCOCCN(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+238
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       2       
+OCH2        	24      1       
+CNC         	29      1       
+[C3H7N]     	66      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/239#section=2D-Structure
+CCCC[N+](C)(C)CCOCCN(C)C.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+239
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       2       
+OCH2        	24      1       
+CNC         	29      1       
+[C4H9N]     	67      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/240#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.F[B-](F)(F)F
+240
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[BF4]       	84      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/241#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.[Cl-]
+241
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/242#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.CCO[S](=O)(=O)C[C@]12CCC(CC1=O)C2(C)C
+242
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[CPS]       	122     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/243#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.N#C[N-]C#N
+243
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[DCA]       	105     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/244#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.FC(F)(F)C(F)(F)[P-](F)(F)(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+244
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[FAP]       	112     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/245#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.CC(O)C([O-])=O
+245
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[LA]        	92      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/246#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+246
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/247#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.F[P-](F)(F)(F)(F)F
+247
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/248#section=2D-Structure
+CCCCCCCCCCCCCC[P+](CCCCCC)(CCCCCC)CCCCCC.CC(C)(C)CC(C)CP([O-])(=O)CC(C)CC(C)(C)C
+248
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       15      
+[C14H29P]   	77      1       
+[PO2-8I,8I] 	117     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/249#section=2D-Structure
+CCCC[P+](C)(CCCC)CCCC.COS([O-])(=O)=O
+249
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       6       
+[C4H9P]     	74      1       
+[SO3-O1]    	97      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/250#section=2D-Structure
+CCCC[P+](CC)(CCCC)CCCC.CCOP([O-])(=O)OCC
+250
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       7       
+[C4H9P]     	74      1       
+[PO2-O2,O2] 	109     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/251#section=2D-Structure
+CCCC[P+](CCCC)(CCCC)CCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+251
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C4H9P]     	74      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/252#section=2D-Structure
+C[P+](CC(C)C)(CC(C)C)CC(C)C.CC1=CC=C(C=C1)S([O-])(=O)=O
+252
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       6       
+CH2         	2       3       
+CH          	3       3       
+[CH3P]      	72      1       
+[SO3-PH1]   	93      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/253#section=2D-Structure
+CCCCCC[P+](CCCC)(CCCC)CCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+253
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C6H13P]    	75      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/254#section=2D-Structure
+CCCCCC[P+](CCCC)(CCCC)CCCC.F[P-](F)(F)(F)(F)F
+254
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       9       
+[C6H13P]    	75      1       
+[PF6]       	85      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/255#section=2D-Structure
+CCCCCCCC[P+](C)(CCCCCCCC)CCCCCCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+255
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       14      
+[C8H17P]    	76      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/256#section=2D-Structure
+CCCCCCCC[P+](CCCCCCCC)(CCCCCCCC)CCCCCCCC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+256
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       21      
+[C8H17P]    	76      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/257#section=2D-Structure
+CC[S+](CC)CC.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+257
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       2       
+[C2H5S]     	79      1       
+[NTF2]      	111     1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/258#section=2D-Structure
+[Cl-].C[N+](C)(C)C.OCCCCCCO
+258
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       6       
+OH          	15      2       
+[CH3N]      	64      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/259#section=2D-Structure
+[Br-].CCC[N+](CCC)(CCC)CCC.OCCCCCCO.OCCCCCCO
+259
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       18      
+OH          	15      4       
+[C3H7N]     	66      1       
+[BR]        	83      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/260#section=2D-Structure
+[Cl-].C[N+](C)(C)CCO.OCC(O)CO
+260
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       4       
+CH          	3       1       
+OH          	15      4       
+[CH3N]      	64      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/261#section=2D-Structure
+[Cl-].C[N+](C)(C)CCO.OCC(O)CO.OCC(O)CO
+261
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       6       
+CH          	3       2       
+OH          	15      7       
+[CH3N]      	64      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/262#section=2D-Structure
+[Cl-].CCCCN1C=C[N+](C)=C1.[Cl-].CCCCN1C=C[N+](C)=C1.OCC(O)CO
+262
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       2       
+CH2         	2       8       
+CH          	3       1       
+OH          	15      3       
+[IM-1,(a)]  	51      2       
+[CL]        	82      2       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/263#section=2D-Structure
+[Cl-].C[N+](C)(C)C.OCCO.OCCO
+263
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       4       
+OH          	15      4       
+[CH3N]      	64      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/264#section=2D-Structure
+[Cl-].C[N+](C)(C)C.OCC(O)CO.OCC(O)CO
+264
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       3       
+CH2         	2       4       
+CH          	3       2       
+OH          	15      6       
+[CH3N]      	64      1       
+[CL]        	82      1       
+
+
+
+https://pubchem.ncbi.nlm.nih.gov/compound/265#section=2D-Structure
+[Br-].CC[N+]1(C)CCCC1.OCC(O)CO.OCC(O)CO
+265
+
+Fragmentation was successful: True
+Fragmentation from the algorithm:
+CH3         	1       1       
+CH2         	2       5       
+CH          	3       2       
+OH          	15      6       
+[PYR-1,(a)] 	56      1       
+[BR]        	83      1       
+
+
+
