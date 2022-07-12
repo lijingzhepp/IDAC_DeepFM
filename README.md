@@ -8,7 +8,7 @@ The deepFM model was under the environment that could be imported by "my-deepFM-
 The database and the training script that were used for training the DeepFM model was included under **Database and training scripts** folder.
 
 ## Developed Model
-The developed model was included under **** folder.
+The developed model was included under **Developed model** folder.
 
 ## Reference
 Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He. (2017) DeepFM: a factorization-machine based neural network for CTR prediction. arXiv preprint arXiv:1703.04247.
