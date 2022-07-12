@@ -10,7 +10,7 @@ The fragmentation script and fragmentation results for solvents and solutes were
 ## Database and training scripts
 The database and the training script that were used for training the DeepFM model was included under **Database and training scripts** folder.
 
-## Developed Model
+## Developed model
 The developed model was included under **Developed model** folder.
 
 ## Reference
