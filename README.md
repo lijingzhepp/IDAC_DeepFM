@@ -4,6 +4,9 @@ This repository was created to share the application of DeepFM model for the inf
 ## Installation of the packages
 The deepFM model was under the environment that could be imported by "my-deepFM-cpu-env-2.yml" and the chemical fragmentation of ILs&DESs was under the environment that could be imported by "my-rdkit-env.yml" under the **Environment** folder.
 
+## Chemical structure fragmentation
+The fragmentation script and fragmentation results for solvents and solutes were included under **Chemical structure fragmentation** folder.
+
 ## Database and training scripts
 The database and the training script that were used for training the DeepFM model was included under **Database and training scripts** folder.
 
