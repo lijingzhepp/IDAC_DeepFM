@@ -1,4 +1,4 @@
-1. The chemical structure fragmentation of green solvents and solutes was under the environment that could be imported by **my-rdkit-env.yml** file. Please refer to the **Environment** folder.
+1. The chemical structure fragmentation of green solvents and solutes was under the environment that could be imported by the **my-rdkit-env.yml** file. Please refer to the **Environment** folder.
 2. The scripts and examples for green solvents chemical structure fragmentation is under the folder **ILs and DESs**.
 3. The scripts and examples for molecular solutes chemical structure fragmentation is under the folder **Solutes**.
 4. As follows are the detailed instructions on how to do the chemical structure fragmentation taking the molecular solutes chemical structure fragmentation as an example:
