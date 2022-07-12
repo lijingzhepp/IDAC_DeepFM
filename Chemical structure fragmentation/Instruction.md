@@ -2,7 +2,7 @@
 2. The scripts and examples for molecular solutes chemical structure fragmentation is under the folder **Solutes**.
 3. As follows are the detailed instructions on how to do the chemical structure fragmentation taking the molecular solutes chemical structure fragmentation as an example:
 
-    3.1 The **structures_DB.csv** file contains the SMILES for molecular solutes. 
+    3.1 Under the **Solutes** folder, the **structures_DB.csv** file contains the SMILES for molecular solutes. 
 
     3.2 The **Fragmenter.ipynb** file or the **Fragmenter.py** file was the fragmentation script to conduct the fragmentation for molecular solutes representing by SMILES in the **structures_DB.csv** file. The preliminary fragmentation results were stored in the **structures_DB_combined_fragmentation_with_pattern_sorting_results.log** file.
 
