@@ -15,7 +15,7 @@ Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He. (2017) DeepFM: a
 
 Weichen Shen. (2017). DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models. https://github.com/shenweichen/deepctr.
 
-RDKit: Open-source cheminformatics. https://www.rdkit.org.![image](https://user-images.githubusercontent.com/57773455/178553894-c2dcbc90-cfde-488d-8350-a31899a67f04.png)
+RDKit: Open-source cheminformatics. https://www.rdkit.org.
 
 ## Citation
 Please cite this work by the original publication in "XXX" from the link "XXX".
