@@ -1,2 +1,2 @@
-1. The The best model that was discussed in the publication in the Citation section of the README.md file was included as the **DeepFM_dnn(512, 256, 256)_embedding5_lr0.001_bs256_drop0_l2l1e-05_l2e1e-05_l2d0_cv8_rep1_model.h5** file.
+1. The best model that was discussed in the publication in the Citation section of the README.md file was included as the **DeepFM_dnn(512, 256, 256)_embedding5_lr0.001_bs256_drop0_l2l1e-05_l2e1e-05_l2d0_cv8_rep1_model.h5** file. Please refer to the **Database and training scripts** folder for detailed model development.
 2. This model could be utilized in the determination of IDACs of molecular solutes in green solvents at various temperatures. 
