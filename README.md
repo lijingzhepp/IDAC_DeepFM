@@ -1,5 +1,5 @@
 # IDAC_DeepFM
-This repository was created to share the application of DeepFM model for the infinite dilution activity coefficients (IDAC) prediction of moleclar solutes in green solvents including ionic liquids (ILs) and deep eutectic solvents (DESs).
+This repository was created to share the application of DeepFM model for the infinite dilution activity coefficients (IDAC) prediction of moleclar solutes in green solvents including ionic liquids (ILs) and deep eutectic solvents (DESs). Please see the following brief instructions of the repository. More detailed instructions were included under each subfolder.
 
 ## Installation of the packages
 The deepFM model was under the environment that could be imported by the **my-deepFM-cpu-env-2.yml** file and the chemical structure fragmentation of green solvents and molecular solutes was under the environment that could be imported by the **my-rdkit-env.yml** file under the **Environment** folder.
